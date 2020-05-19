@@ -1,0 +1,12 @@
+//1. password
+//2. creating new bill.
+3. customer name,
+   contact name.
+
+4. product name,  ...should accept more than one
+   product price. ...price * quantity = total
+
+5. include gst tax with total amount
+6. taken amount from customer with return amount
+7. display the bill
+

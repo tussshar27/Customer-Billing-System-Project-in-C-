@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571846911 source:e:\tushar annam\finalprojectc++\c++project\cbs\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+
